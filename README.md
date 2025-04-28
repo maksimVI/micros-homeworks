@@ -9,10 +9,10 @@
 Любые вопросы по решению задач задавайте в чате учебной группы. Ссылку вы найдёте в письме на вашей электронной почте.
 
 
-1. [Введение в микросервисы](11-microservices-01-intro.md).
+1. [Введение в микросервисы](11-microservices/01-intro/README.md).
 
-2. [Микросервисы: принципы](11-microservices-02-principles.md).
+2. [Микросервисы: принципы](11-microservices/02-principles/README.md).
 
-3. [Микросервисы: подходы](11-microservices-03-approaches.md).
+3. [Микросервисы: подходы](11-microservices/03-approaches/README.md).
 
-4. [Микросервисы: масштабирование](11-microservices-04-scaling.md).
+4. [Микросервисы: масштабирование](11-microservices/04-scaling/README.md).
